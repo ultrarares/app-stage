@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.38c2509a.css",
-    "main.js": "/static/js/main.46862495.js",
+    "main.js": "/static/js/main.491f9326.js",
     "static/media/inter.ttf": "/static/media/inter.aadb65ac45347ff46699.ttf",
     "static/media/discord.svg": "/static/media/discord.43e1ba9070255a68f987a1edea611981.svg",
     "index.html": "/index.html",
@@ -10,6 +10,6 @@
   },
   "entrypoints": [
     "static/css/main.38c2509a.css",
-    "static/js/main.46862495.js"
+    "static/js/main.491f9326.js"
   ]
 }
